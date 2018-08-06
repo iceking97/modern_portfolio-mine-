@@ -10,5 +10,8 @@
   "license": "MIT ",
   "dependencies": {
     "node-sass": "^4.9.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0"
   }
 }
